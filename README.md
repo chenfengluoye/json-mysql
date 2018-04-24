@@ -81,4 +81,4 @@ public class DefaultDBManager implements DBManager{
       }
 	}
   
-  <br>关于DBCore、OccupySql、OcpSqlAndArgs、CompleteSql等更多的用法详见使用示例
+  <br>关于DBCore、OccupySql、OcpSqlAndArgs、CompleteSql等更多的用法详见使用示例https://github.com/chenfengluoye/json-mysql/tree/master/src/ckj/lib/test
